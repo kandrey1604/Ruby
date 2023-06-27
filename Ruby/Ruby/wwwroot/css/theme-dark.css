@@ -1,0 +1,343 @@
+﻿body {
+    background: #222;
+}
+
+header {
+    background: #040200;
+    -webkit-box-shadow: 12px 17px 8px 0px rgba(34, 60, 80, 0.22);
+    -moz-box-shadow: 12px 17px 8px 0px rgba(34, 60, 80, 0.22);
+    box-shadow: 0px 1px 1px 0px rgba(34, 60, 80, 0.22);
+}
+
+    header .header_link {
+        color: #fff;
+    }
+
+
+        header .header_link:hover {
+            color: #FE753F;
+            transition: all .4s ease;
+        }
+
+
+#description {
+    background-color: #141414;
+}
+
+    #description .description h1 {
+        color: #fff;
+    }
+
+    #description .description p {
+        color: #fff;
+        opacity: 0.7;
+    }
+
+#partners {
+    background: #141414;
+}
+
+    #partners .container p {
+        color: #fff;
+    }
+
+#popular-content {
+    background-color: #141414;
+}
+
+    #popular-content .container h2 {
+        color: #FFFFFF;
+    }
+
+    #popular-content .container .card {
+        /* border-color: #fd6b3c; */
+        background: #000;
+        box-shadow: 0px 8px 70px rgba(0, 0, 0, 0.07);
+    }
+
+        #popular-content .container .card .property_name {
+            color: #fff;
+        }
+
+        #popular-content .container .card .property_place {
+            color: #fff;
+            opacity: 0.7;
+        }
+
+            #popular-content .container .card .property_place::before {
+                content: url('https://api.iconify.design/material-symbols/location-on.svg?color=white');
+                color: #fff;
+            }
+
+        #popular-content .container .card .property_room p {
+            color: #fff;
+            opacity: 0.7;
+        }
+
+        #popular-content .container .card .property_room .property_bedroom::before {
+            content: url('https://api.iconify.design/ic/twotone-king-bed.svg?color=white');
+            color: #fff;
+        }
+
+        #popular-content .container .card .property_room .property_kitchen::before {
+            content: url('https://api.iconify.design/tabler/tools-kitchen-2.svg?color=white');
+            color: #fff;
+        }
+
+        #popular-content .container .card .property_room .property_bathroom::before {
+            content: url('https://api.iconify.design/fa6-solid/bath.svg?color=white');
+            color: #fff;
+        }
+
+        #popular-content .container .card .property_room .property_square::before {
+            content: url('https://api.iconify.design/majesticons/arrows-expand-full-line.svg?color=white');
+            color: #030A1B;
+        }
+
+        #popular-content .container .card .property_price {
+            color: #FE753F;
+        }
+
+        #popular-content .container .card .buy_property {
+            background: #2E6EFF;
+            color: #fff;
+        }
+
+#oppotunity {
+    background: #040200;
+}
+
+    #oppotunity .container h2 {
+        color: #fff;
+    }
+
+    #oppotunity .container p {
+        color: #fff;
+        opacity: 0.7;
+    }
+
+    #oppotunity .container .card_oppotunities {
+        background: #141414;
+    }
+
+        #oppotunity .container .card_oppotunities h4 {
+            color: #fff;
+        }
+
+        #oppotunity .container .card_oppotunities p {
+            color: #fff;
+            opacity: 0.7;
+        }
+
+#reviews {
+    background: #040200;
+}
+
+    #reviews .container h5 {
+        color: #FE753F;
+    }
+
+    #reviews .container h2 {
+        color: #fff;
+    }
+
+    #reviews .container .review_card {
+        background: #141414;
+        border: 1px solid #FE753F;
+    }
+
+        #reviews .container .review_card .name_reviewer {
+            color: #fff;
+        }
+
+        #reviews .container .review_card .description_reviewer {
+            color: #fff;
+            opacity: 0.7;
+        }
+
+footer {
+    background-color: #141414;
+    -webkit-box-shadow: -9px -11px 9px -5px rgba(249, 144, 2, 0.31);
+    -moz-box-shadow: -9px -11px 9px -5px rgba(249, 144, 2, 0.31);
+    box-shadow: -9px -11px 9px -5px rgba(249, 144, 2, 0.31);
+}
+
+    footer .container .footer-logo p {
+        color: #fff;
+        opacity: 0.7;
+    }
+
+    footer .social-footer li a {
+        color: #fff;
+    }
+
+    footer .menu-footer .col > b {
+        color: #fff;
+    }
+
+    footer .menu-footer .col > ul > li > a {
+        color: #fff;
+        opacity: 0.7;
+    }
+
+/* proprties */
+#main {
+    box-shadow: 0px 5px 10px black;
+}
+
+    #main::before {
+        content: '';
+        background-color: rgba(0,0,0,.3);
+    }
+
+    #main .inner > h2 {
+        color: #fff;
+    }
+
+    #main .inner > p {
+        color: #fff;
+    }
+
+/* about us */
+
+#about {
+    box-shadow: 0px 15px 50px black;
+}
+
+    #about::before {
+        content: '';
+        background-color: rgba(0,0,0,.3);
+    }
+
+    #about .inner > h1 {
+        color: #fff;
+    }
+
+    #about .inner > p {
+        color: rgb(245, 245, 245);
+    }
+
+/* registration */
+.wrap_login {
+    background: #141414;
+}
+
+    .wrap_login .login_form_title {
+        color: #fff;
+    }
+
+    .wrap_login .label_input {
+        color: #fff;
+    }
+
+    .wrap_login .wrap_input {
+        background: #141414;
+        border-bottom: 2px solid gray;
+    }
+
+    .wrap_login input .input100 {
+        color: #333;
+    }
+
+.forgot_password > a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.wrap_authorization {
+    background: #fff;
+}
+
+.authorization_form_title {
+    color: #333;
+}
+
+.forgot-password > a {
+    color: #666;
+}
+
+.Button {
+    background-color: #e84e0e;
+    color: #fff;
+}
+
+.registrationButton > a {
+    color: #fff;
+    text-decoration: none;
+}
+/* Dark Light Theme */
+.theme {
+    position: fixed;
+    /* cursor: pointer; */
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    padding: 10px;
+    border-radius: 10px;
+    background: #222222;
+    box-shadow: 0 0 10px rgba(255,255,255,0.1);
+}
+
+    .theme svg {
+        cursor: pointer;
+    }
+
+.changeTheme[data-theme="dark"] {
+    display: none;
+}
+
+.changeTheme[data-theme="light"] {
+    display: block;
+}
+
+@media only screen and (max-width: 768px) {
+
+    header .header_burger span {
+        position: absolute;
+        background-color: #fff;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        top: 9px;
+        transition: all 0.3s ease 0s;
+    }
+
+    header .header_burger::before,
+    header .header_burger::after {
+        content: '';
+        background-color: #fff;
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        left: 0;
+        transition: all 0.3s ease 0s;
+    }
+
+    header .header_menu {
+        position: fixed;
+        left: 0;
+        top: -100%;
+        width: 100%;
+        height: 450px;
+        overflow: auto;
+        background-color: #141414;
+        transition: all 0.3s ease 0s;
+        padding: 80px 20px 0 20px;
+    }
+}
+
+#cart {
+    background: #141414;
+}
+
+#cart > p {
+    color: #fff;
+}
+
+#cart .cart-properties p {
+    color: #fff;
+}
+
+#cart .cart-properties > a {
+    color: #FE753F;
+}

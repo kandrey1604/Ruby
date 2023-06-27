@@ -1,0 +1,168 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RubyAdmin
+build_property.RootNamespace = RubyAdmin
+build_property.ProjectDir = C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\RubyAdmin\RubyAdmin\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\RubyAdmin\RubyAdmin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateCurrentPosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVDdXJyZW50UG9zaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateStructureOfEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVTdHJ1Y3R1cmVPZkVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateStructureOfUserProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVTdHJ1Y3R1cmVPZlVzZXJQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateTypeProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVUeXBlUHJvcGVydHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/CreateUserCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVVc2VyQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteCurrentPosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVDdXJyZW50UG9zaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteStructureOfEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVTdHJ1Y3R1cmVPZkVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteStructureOfUserProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVTdHJ1Y3R1cmVPZlVzZXJQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteTypeProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVUeXBlUHJvcGVydHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/DeleteUserCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVVc2VyQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditCurrentPosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0Q3VycmVudFBvc2l0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0RW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0UHJvcGVydHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditStructureOfEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0U3RydWN0dXJlT2ZFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditStructureOfUserProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0U3RydWN0dXJlT2ZVc2VyUHJvcGVydHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditTypeProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0VHlwZVByb3BlcnR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/EditUserCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0VXNlckNhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexCurrentPosition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleEN1cnJlbnRQb3NpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFByb3BlcnR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexStructureOfEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFN0cnVjdHVyZU9mRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexStructureOfUserProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFN0cnVjdHVyZU9mVXNlclByb3BlcnR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexTypeProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFR5cGVQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/IndexUserCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleFVzZXJDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Учеба/3 курс/6 семестр/РПМ Волкова/Веб-сайт/RubyAdmin/RubyAdmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bwpi77kool

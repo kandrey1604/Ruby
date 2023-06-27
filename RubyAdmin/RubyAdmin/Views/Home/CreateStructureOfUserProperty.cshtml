@@ -1,0 +1,23 @@
+﻿@model RubyAdmin.Models.StructureOfUserProperty
+@{
+    ViewBag.Title = "Добавление состава недвижимостей";
+}
+<form asp-action="CreateStructureOfUserProperty" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="PropertyId" class="control-label">Код недвижимости</label>
+        <input type="text" asp-for="PropertyId" class="form-control" required min="0" />
+        <span asp-validation-for="PropertyId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserId" class="control-label">Код пользователя</label>
+        <input type="text" asp-for="UserId" class="form-control" required min="0" />
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Добавить" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="IndexStructureOfUserProperty">Назад</a>
+</div>

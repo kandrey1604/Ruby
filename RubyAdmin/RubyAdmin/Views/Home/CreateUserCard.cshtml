@@ -1,0 +1,33 @@
+﻿@model RubyAdmin.Models.UserCard
+@{
+    ViewBag.Title = "Добавление карты пользователя";
+}
+<form asp-action="CreateUserCard" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="CardNumber" class="control-label">Номер карты</label>
+        <input type="text" asp-for="CardNumber" class="form-control" pattern="\d{4} \d{4} \d{4} \d{4}" required />
+        <span asp-validation-for="CardNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CardHolder" class="control-label">Имя</label>
+        <input type="text" asp-for="CardHolder" class="form-control" required maxlength="60"/>
+        <span asp-validation-for="CardHolder" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Validity" class="control-label">Срок действия</label>
+        <input type="text" asp-for="Validity" class="form-control" pattern="\d{2}/\d{2}" required />
+        <span asp-validation-for="Validity" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserId" class="control-label">Пользователь</label>
+        <input type="text" asp-for="UserId" class="form-control" required min="0"/>
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Добавить" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="IndexUserCard">Назад</a>
+</div>

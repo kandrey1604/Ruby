@@ -1,0 +1,183 @@
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\appsettings.json
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Ruby.staticwebassets.runtime.json
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Ruby.exe
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Ruby.deps.json
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Ruby.runtimeconfig.json
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Ruby.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Ruby.pdb
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.AssemblyInfo.cs
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\scopedcss\bundle\Ruby.styles.css
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\scopedcss\projectbundle\Ruby.bundle.scp.css
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.CopyComplete
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.dll
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\refint\Ruby.dll
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.pdb
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\Ruby.genruntimeconfig.cache
+C:\Users\user\source\repos\Ruby\Ruby\obj\Debug\net6.0\ref\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\appsettings.Development.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\appsettings.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Ruby.staticwebassets.runtime.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Ruby.exe
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Ruby.deps.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Ruby.runtimeconfig.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Ruby.pdb
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Humanizer.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.AssemblyReference.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.AssemblyInfoInputs.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.AssemblyInfo.cs
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.CoreCompileInputs.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.MvcApplicationPartsAssemblyInfo.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.RazorAssemblyInfo.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.RazorAssemblyInfo.cs
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\staticwebassets.build.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\staticwebassets.development.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\scopedcss\bundle\Ruby.styles.css
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\scopedcss\projectbundle\Ruby.bundle.scp.css
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.CopyComplete
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\refint\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.pdb
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\Ruby.genruntimeconfig.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Ruby\Ruby\obj\Debug\net6.0\ref\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\appsettings.Development.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\appsettings.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Ruby.staticwebassets.runtime.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Ruby.exe
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Ruby.deps.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Ruby.runtimeconfig.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Ruby.pdb
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Humanizer.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.AssemblyReference.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.AssemblyInfoInputs.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.AssemblyInfo.cs
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.CoreCompileInputs.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.MvcApplicationPartsAssemblyInfo.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.RazorAssemblyInfo.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.RazorAssemblyInfo.cs
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\staticwebassets.build.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\staticwebassets.development.json
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\scopedcss\bundle\Ruby.styles.css
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\scopedcss\projectbundle\Ruby.bundle.scp.css
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.csproj.CopyComplete
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\refint\Ruby.dll
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.pdb
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\Ruby.genruntimeconfig.cache
+C:\Учеба\3 курс\6 семестр\РПМ Волкова\Веб-сайт\Ruby\Ruby\obj\Debug\net6.0\ref\Ruby.dll

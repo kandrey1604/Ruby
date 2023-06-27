@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RubyController.Models.CurrentPosition">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CurrentPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.Employee">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAAAAAAEAAAAAAAAAIAAAAAYAAAAAAAA=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.Property">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAASAAAAAAAAIAABAAAAAAAJAAAAAggAAABAA=</HashCode>
+      <FileName>Models\Property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.RubyHome_DatabaseContext">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAQAQAAgAIAAAAAAAGAAAAAAAAAEAAAACQAA=</HashCode>
+      <FileName>Models\RubyHome_DatabaseContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.StructureOfEmployee">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAEAAAAEAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\StructureOfEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.StructureOfUserProperty">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAgAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\StructureOfUserProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.TypeProperty">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\TypeProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.User">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Models.UserCard">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAIAgABAAAAA=</HashCode>
+      <FileName>Models\UserCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.CurrentPositionsController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAgABAAAAAEAAAAAAAAAAAAAAACCAAAIAAA=</HashCode>
+      <FileName>Controllers\CurrentPositionsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.EmployeesController">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAIAhAAAAAAAAAAAECAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\EmployeesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.PropertiesController">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAABAAABAAAAAAEAAAAgAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Controllers\PropertiesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.StructureOfEmployeesController">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAABAAAAAAAAAAAAQAACAAAAAwAAAgAAAA=</HashCode>
+      <FileName>Controllers\StructureOfEmployeesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.StructureOfUserPropertiesController">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAAAAAACAgAIBAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Controllers\StructureOfUserPropertiesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.TypePropertiesController">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAJACAAAAAAAAAAAAABAAACAAACAAAAAA=</HashCode>
+      <FileName>Controllers\TypePropertiesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.UserCardsController">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAABFAAAAAAAAAAAAAAAAAgAIAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UserCardsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubyController.Controllers.UsersController">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAAAAABQAEAAAAAAAAAAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

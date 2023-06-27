@@ -1,0 +1,28 @@
+﻿@model RubyAdmin.Models.StructureOfEmployee
+@{
+    ViewBag.Title = "Добавление состава сотрудников";
+}
+<form asp-action="CreateStructureOfEmployee" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="PropertyId" class="control-label">Код недвижимости</label>
+        <input type="text" asp-for="PropertyId" class="form-control" required min="0" />
+        <span asp-validation-for="PropertyId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="EmployeeId" class="control-label">Код сотрудника</label>
+        <input type="text" asp-for="EmployeeId" class="form-control" required min="0" />
+        <span asp-validation-for="EmployeeId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CurrentPositionId" class="control-label">Код должности</label>
+        <input type="text" asp-for="CurrentPositionId" class="form-control" required min="0" />
+        <span asp-validation-for="CurrentPositionId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Добавить" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="IndexStructureOfEmployee">Назад</a>
+</div>

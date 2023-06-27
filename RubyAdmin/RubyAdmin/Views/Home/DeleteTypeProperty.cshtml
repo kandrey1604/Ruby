@@ -1,0 +1,34 @@
+﻿@model RubyAdmin.Models.TypeProperty
+@{
+    ViewBag.Title = "Удаление вида недвижимости";
+}
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>Название</dt>
+        <dd>
+            @Html.DisplayFor(model => model.TypePropertyName)
+        </dd>
+    </dl>
+
+    <div>
+        <form id="deleteForm" asp-controller="Home" asp-action="DeleteTypeProperty" method="post">
+            <div class="form-group">
+                <input type="submit" class="btn btn-default" value="Удалить" onclick="return confirmDelete(event)"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function confirmDelete(event) {
+        // Показать диалоговое окно с подтверждением удаления
+        var confirmed = confirm("Вы уверены, что хотите удалить запись?");
+
+        if (!confirmed) {
+            event.preventDefault(); // Отменить отправку формы
+        }
+
+        return confirmed;
+    }
+</script>

@@ -1,0 +1,271 @@
+﻿header {
+    background-color: #fff;
+    -webkit-box-shadow: 12px 17px 8px 0px rgba(34, 60, 80, 0.22);
+    -moz-box-shadow: 12px 17px 8px 0px rgba(34, 60, 80, 0.22);
+    box-shadow: 0px 1px 1px 0px rgba(34, 60, 80, 0.22);
+}
+
+    header .header_link {
+        color: #000;
+    }
+
+
+        header .header_link:hover {
+            color: #FE753F;
+            transition: all .4s ease;
+        }
+
+
+#description {
+    background-color: #fff;
+}
+
+    #description .description h1 {
+        color: #000;
+    }
+
+    #description .description p {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+#partners .container p {
+    color: #030A1B;
+}
+
+#popular-content .container h2 {
+    color: #030A1B;
+}
+
+#popular-content .container .card {
+    background: #FFFFFF;
+    box-shadow: 0px 8px 70px rgba(0, 0, 0, 0.07);
+}
+
+    #popular-content .container .card .property_name {
+        color: #030A1B;
+    }
+
+    #popular-content .container .card .property_place {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+        #popular-content .container .card .property_place::before {
+            content: url('https://api.iconify.design/material-symbols/location-on.svg');
+            color: #030A1B;
+        }
+
+    #popular-content .container .card .property_room p {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+    #popular-content .container .card .property_room .property_bedroom::before {
+        content: url('https://api.iconify.design/ic/twotone-king-bed.svg?color=black');
+        color: #030A1B;
+    }
+
+    #popular-content .container .card .property_room .property_kitchen::before {
+        content: url('https://api.iconify.design/tabler/tools-kitchen-2.svg');
+        color: #030A1B;
+    }
+
+    #popular-content .container .card .property_room .property_bathroom::before {
+        content: url('https://api.iconify.design/fa6-solid/bath.svg');
+        color: #030A1B;
+    }
+
+    #popular-content .container .card .property_room .property_square::before {
+        content: url('https://api.iconify.design/majesticons/arrows-expand-full-line.svg');
+        color: #030A1B;
+    }
+
+    #popular-content .container .card .property_price {
+        color: #FE753F;
+    }
+
+    #popular-content .container .card .buy_property {
+        background: #2E6EFF;
+        color: #fff;
+    }
+
+#oppotunity {
+    background: #F9F9F9;
+}
+
+    #oppotunity .container h2 {
+        color: #030A1B;
+    }
+
+    #oppotunity .container p {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+    #oppotunity .container .card_oppotunities {
+        background: #fff;
+    }
+
+        #oppotunity .container .card_oppotunities h4 {
+            color: #030A1B;
+        }
+
+        #oppotunity .container .card_oppotunities p {
+            color: #030A1B;
+            opacity: 0.7;
+        }
+
+#reviews .container h5 {
+    color: #FE753F;
+}
+
+#reviews .container h2 {
+    color: #030A1B;
+}
+
+#reviews .container .review_card {
+    background: #fff;
+    border: 2px solid rgba(100, 230, 24, 0.1);
+}
+
+    #reviews .container .review_card .name_reviewer {
+        color: #030A1B;
+    }
+
+    #reviews .container .review_card .description_reviewer {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+footer {
+    background-color: rgb(231, 230, 230);
+}
+
+    footer .container .footer-logo p {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+    footer .social-footer li a {
+        color: #000;
+    }
+
+    footer .menu-footer .col > b {
+        color: #030A1B;
+    }
+
+    footer .menu-footer .col > ul > li > a {
+        color: #030A1B;
+        opacity: 0.7;
+    }
+
+/* proprties */
+#main {
+    box-shadow: 0px 5px 10px black;
+}
+
+    #main::before {
+        content: '';
+        background-color: rgba(0,0,0,.3);
+    }
+
+    #main .inner > h2 {
+        color: #fff;
+    }
+
+    #main .inner > p {
+        color: #fff;
+    }
+
+/* about us */
+
+#about {
+    box-shadow: 0px 15px 50px black;
+}
+
+    #about::before {
+        content: '';
+        background-color: rgba(0,0,0,.3);
+    }
+
+    #about .inner > h1 {
+        color: #fff;
+    }
+
+    #about .inner > p {
+        color: rgb(245, 245, 245);
+    }
+
+/* registration */
+.wrap_login {
+    background: #fff;
+}
+
+    .wrap_login .login_form_title {
+        color: #333;
+    }
+
+    .wrap_login .label_input {
+        color: #333;
+    }
+
+    .wrap_login .wrap_input {
+        border-bottom: 2px solid gray;
+    }
+
+    .wrap_login input .input100 {
+        color: #333;
+    }
+
+.forgot_password > a {
+    color: #666;
+    text-decoration: none;
+}
+
+.wrap_authorization {
+    background: #fff;
+}
+
+.authorization_form_title {
+    color: #333;
+}
+
+.forgot-password > a {
+    color: #666;
+}
+
+.Button {
+    background-color: #e84e0e;
+    color: #fff;
+}
+
+.registrationButton > a {
+    color: #666;
+    text-decoration: none;
+}
+
+/* Dark Light Theme */
+.theme {
+    position: fixed;
+    /* cursor: pointer; */
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(39,38,40,0.4);
+}
+
+    .theme svg {
+        cursor: pointer;
+    }
+
+.changeTheme[data-theme="dark"] {
+    display: block;
+}
+
+.changeTheme[data-theme="light"] {
+    display: none;
+}

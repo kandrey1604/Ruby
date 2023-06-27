@@ -1,0 +1,30 @@
+﻿@model IEnumerable<RubyAdmin.Models.StructureOfUserProperty>
+@{
+    ViewBag.Title = "Все составы недвижимостей";
+}
+
+<h2>Все составы недвижимостей</h2>
+<a asp-action="IndexProperty" class="btn btn-sm btn-primary">Недвижимости</a>
+<a asp-action="IndexTypeProperty" class="btn btn-sm btn-primary">Вид недвижимости</a>
+<a asp-action="IndexUser" class="btn btn-sm btn-primary">Пользователи</a>
+<a asp-action="IndexUserCard" class="btn btn-sm btn-primary">Карты пользователей</a>
+<a asp-action="IndexEmployee" class="btn btn-sm btn-primary">Сотрудники</a>
+<a asp-action="IndexCurrentPosition" class="btn btn-sm btn-primary">Занимающие должности</a>
+<a asp-action="IndexStructureOfUserProperty" class="btn btn-sm btn-primary">Составы недвижимостей</a>
+<a asp-action="IndexStructureOfEmployee" class="btn btn-sm btn-primary">Составы сотрудников</a>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.PropertyId</td>
+            <td>@item.UserId</td>
+            <td>
+                <a asp-action="CreateStructureOfUserProperty" asp-controller="Home">Добавить</a>
+                <a asp-action="EditStructureOfUserProperty" asp-controller="Home" asp-route-id="@item.IdStructureOfUserProperty">Изменить</a>
+                <a asp-action="DeleteStructureOfUserProperty" asp-controller="Home" asp-route-id="@item.IdStructureOfUserProperty">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>

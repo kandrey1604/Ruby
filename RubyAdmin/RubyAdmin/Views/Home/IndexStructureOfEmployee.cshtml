@@ -1,0 +1,31 @@
+﻿@model IEnumerable<RubyAdmin.Models.StructureOfEmployee>
+@{
+    ViewBag.Title = "Все составы сотрудников";
+}
+
+<h2>Все составы недвижимостей</h2>
+<a asp-action="IndexProperty" class="btn btn-sm btn-primary">Недвижимости</a>
+<a asp-action="IndexTypeProperty" class="btn btn-sm btn-primary">Вид недвижимости</a>
+<a asp-action="IndexUser" class="btn btn-sm btn-primary">Пользователи</a>
+<a asp-action="IndexUserCard" class="btn btn-sm btn-primary">Карты пользователей</a>
+<a asp-action="IndexEmployee" class="btn btn-sm btn-primary">Сотрудники</a>
+<a asp-action="IndexCurrentPosition" class="btn btn-sm btn-primary">Занимающие должности</a>
+<a asp-action="IndexStructureOfUserProperty" class="btn btn-sm btn-primary">Составы недвижимостей</a>
+<a asp-action="IndexStructureOfEmployee" class="btn btn-sm btn-primary">Составы сотрудников</a>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.PropertyId</td>
+            <td>@item.EmployeeId</td>
+            <td>@item.CurrentPositionId</td>
+            <td>
+                <a asp-action="CreateStructureOfEmployee" asp-controller="Home">Добавить</a>
+                <a asp-action="EditStructureOfEmployee" asp-controller="Home" asp-route-id="@item.IdStructureOfEmployee">Изменить</a>
+                <a asp-action="DeleteStructureOfEmployee" asp-controller="Home" asp-route-id="@item.IdStructureOfEmployee">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>

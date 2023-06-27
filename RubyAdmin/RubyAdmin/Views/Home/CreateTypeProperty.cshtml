@@ -1,0 +1,18 @@
+﻿@model RubyAdmin.Models.TypeProperty
+@{
+    ViewBag.Title = "Добавление вида недвижимости";
+}
+<form asp-action="CreateTypeProperty" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="TypePropertyName" class="control-label">Название</label>
+        <input type="text" asp-for="TypePropertyName" class="form-control" required maxlength="50"/>
+        <span asp-validation-for="TypePropertyName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Добавить" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="IndexTypeProperty">Назад</a>
+</div>

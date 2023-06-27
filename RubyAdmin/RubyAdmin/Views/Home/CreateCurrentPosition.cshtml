@@ -1,0 +1,22 @@
+﻿@model RubyAdmin.Models.CurrentPosition
+
+@{
+    ViewBag.Title = "Добавление занимающей должности";
+}
+
+<h1>Добавление</h1>
+
+<form asp-action="CreateCurrentPosition" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="NameCurrentPosition" class="control-label">Название</label>
+        <input type="text" asp-for="NameCurrentPosition" class="form-control" required maxlength="30"/>
+        <span asp-validation-for="NameCurrentPosition" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Добавить" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="IndexCurrentPosition">Назад</a>
+</div>

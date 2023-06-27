@@ -1,0 +1,41 @@
+﻿@model RubyAdmin.Models.User
+
+@{
+    ViewData["Title"] = "Изменение пользователя";
+}
+
+<h1>Изменение</h1>
+
+<h4>Пользователь</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdUser" />
+            <div class="form-group">
+                <label asp-for="LoginUser" class="control-label"></label>
+                <input type="email" asp-for="LoginUser" class="form-control" required maxlength="100" />
+                <span asp-validation-for="LoginUser" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PasswordUser" class="control-label"></label>
+                <input type="text" asp-for="PasswordUser" class="form-control" required maxlength="32" />
+                <span asp-validation-for="PasswordUser" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Изменить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="IndexUser">Назад</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

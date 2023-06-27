@@ -1,0 +1,36 @@
+﻿@model RubyAdmin.Models.CurrentPosition
+
+@{
+    ViewData["Title"] = "Изменение занимающей должности";
+}
+
+<h1>Изменение</h1>
+
+<h4>Current Position</h4>
+<hr/>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditCurrentPosition">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdCurrentPosition" />
+            <div class="form-group">
+                <label asp-for="NameCurrentPosition" class="control-label">Название</label>
+                <input type="text" asp-for="NameCurrentPosition" class="form-control" required maxlength="30"/>
+                <span asp-validation-for="NameCurrentPosition" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Изменить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="IndexCurrentPosition">Назад</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

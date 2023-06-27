@@ -1,0 +1,24 @@
+﻿@model RubyAdmin.Models.User
+@{
+    ViewBag.Title = "Добавление пользователя";
+}
+<form asp-action="CreateUser" asp-controller="home">
+    <div class="form-group">
+        <label asp-for="LoginUser" class="control-label">Логин</label>
+        <input type="email" asp-for="LoginUser" class="form-control" required maxlength="100"/>
+        <span asp-validation-for="LoginUser" class="text-danger"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="PasswordUser" class="control-label">Пароль</label>
+        <input type="password" asp-for="PasswordUser" class="form-control" required maxlength="32"/>
+        <span asp-validation-for="PasswordUser" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Добавить" class="btn btn-default" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="IndexUser">Назад</a>
+</div>

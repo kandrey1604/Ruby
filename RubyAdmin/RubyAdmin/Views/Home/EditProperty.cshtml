@@ -1,0 +1,77 @@
+﻿@model RubyAdmin.Models.Property
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Property</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditProperty">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdProperty" />
+            <div class="form-group">
+                <label asp-for="NameProperty" class="control-label"></label>
+                <input type="text" asp-for="NameProperty" class="form-control"required maxlength="50" />
+                <span asp-validation-for="NameProperty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input type="url" asp-for="Image" class="form-control" required />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" required />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Square" class="control-label"></label>
+                <input asp-for="Square" class="form-control" required min="0" />
+                <span asp-validation-for="Square" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BedroomCount" class="control-label"></label>
+                <input asp-for="BedroomCount" class="form-control" required min="0" />
+                <span asp-validation-for="BedroomCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KitchenCount" class="control-label"></label>
+                <input asp-for="KitchenCount" class="form-control" required min="0" />
+                <span asp-validation-for="KitchenCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BathroomCount" class="control-label"></label>
+                <input asp-for="BathroomCount" class="form-control" required min="0" />
+                <span asp-validation-for="BathroomCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" required min="0" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypePropertyId" class="control-label"></label>
+                <input asp-for="TypePropertyId" class="form-control" required min="0" />
+                <span asp-validation-for="TypePropertyId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Изменить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="IndexProperty">Назад</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
